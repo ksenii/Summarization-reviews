@@ -3,7 +3,10 @@ This project focuses on preprocessing hotel reviews from the Yandex.Travel platf
 
 1. Project Overview
 The system processes hotel reviews by performing the following steps:
-✅ Text Preprocessing – Cleaning, tokenization, and lemmatization of reviews.
-✅ Topic Classification – Assigning each sentence to predefined themes.
+
+Text Preprocessing – Cleaning, tokenization, and lemmatization of reviews.
+
+Topic Classification – Assigning each sentence to predefined themes.
+
 [TBD]
 
